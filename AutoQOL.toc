@@ -1,0 +1,8 @@
+## Interface: 11500
+## Title: AutoQOL
+## Notes: Quality of life addon. Faster looting, automatic repair.
+## Author: Alex Muscat
+## Version: 1.0.0
+
+AutoQOLloot.lua
+AutoQOLrepair.lua
